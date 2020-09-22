@@ -15,6 +15,4 @@ WildWest is a dark theme that has a strong color contrast with a dark background
 4. Reload the editor
 5. Code > Preferences > Color Theme > WildWest
 
-<p align="center">
-  <img src="https://github.com/Maheshoo7/WildWest/blob/master/demo/Screenshot%202020-09-22%20at%207.55.12%20PM.png" title="hover text">
-</p>
+<img src="https://github.com/Maheshoo7/WildWest/blob/master/demo/Screenshot%202020-09-22%20at%207.55.12%20PM.png" title="hover text">
