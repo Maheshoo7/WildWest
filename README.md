@@ -1,15 +1,18 @@
 # WildWest for Visual Studio Code 
-## A Dark Theme with Futuristic Design
+### Dark and high contrast theme
+
+WildWest is a dark theme that has a strong color contrast with a dark background.
 
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center">
+  <img src="https://github.com/Maheshoo7/WildWest/blob/master/demo/Screenshot%202020-09-22%20at%207.50.04%20PM.png" title="hover text">
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### Installation via VS Code
+1. In VS Code open **Extensions** in sidebar
+2. Search for **WildWest**
+3. Click **Install**
+4. Reload the editor
+5. Code > Preferences > Color Theme > WildWest
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+<img src="https://github.com/Maheshoo7/WildWest/blob/master/demo/Screenshot%202020-09-22%20at%207.55.12%20PM.png" title="hover text">
