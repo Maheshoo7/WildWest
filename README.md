@@ -9,11 +9,14 @@
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-### Dark and high contrast theme
+<h3 align="center">
+  Dark and high contrast theme
+</h3>
 
-WildWest is a dark theme that has a strong color contrast with a dark background.
+<p align="center">
+  WildWest is a dark theme that has a strong color contrast with a dark background.
+</p>
 
-<p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 <p align="center">
