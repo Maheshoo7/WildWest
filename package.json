@@ -1,0 +1,22 @@
+{
+    "name": "wildWest",
+    "displayName": "wildWest",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "publisher": "MaheshGaddhe00",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "WildWest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/WildWest-color-theme.json"
+            }
+        ]
+    }
+}
