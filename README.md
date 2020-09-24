@@ -1,10 +1,10 @@
 <h1 align="center">
   WildWest for Visual Studio Code 
 </h1>
-
 <p align="center">
-  <img src="demo/logo.jpg" width='270' title="hover text">
+  <img src="demo/logo.jpg" width='270' style= "border-radius:40%" title="hover text">
 </p>
+
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -20,8 +20,9 @@
 <p>&nbsp;</p> 
 
 <p align="center">
-  <img src="demo/img2.png" title="hover text">
+  <img src="demo/img2.png" style= "border-radius: 10px 10px" title="hover text">
 </p>
+
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
@@ -34,10 +35,11 @@
 5. Code > Preferences > Color Theme > WildWest
 
 <p>&nbsp;</p> 
+<p>&nbsp;</p>
+
+<img src="demo/img1.png" style= "border-radius: 10px 10px" title="hover text">
+
+<p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-<img src="demo/img1.png" title="hover text">
-
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
+<img src="demo/img3.png" style= "border-radius: 10px 10px" title="hover text">

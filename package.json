@@ -1,8 +1,8 @@
 {
     "name": "wildwest",
-    "displayName": "Wild West",
+    "displayName": "Wild West Theme",
     "description": "Dark and high contrast theme",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "engines": {
         "vscode": "^1.49.0"
     },
