@@ -1,15 +1,25 @@
 {
-    "name": "wildWest",
-    "displayName": "wildWest",
-    "description": "",
+    "name": "wildwest",
+    "displayName": "Wild West",
+    "description": "Dark and high contrast theme",
     "version": "0.2.0",
     "engines": {
         "vscode": "^1.49.0"
     },
-    "publisher": "MaheshGaddhe00",
+
+    "publisher": "Mahesh Gaddhe",
     "categories": [
         "Themes"
     ],
+    "icon": "demo/logo.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Maheshoo7/WildWest.git"
+    },
+    "galleryBanner": {
+        "color": "#001321",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
@@ -18,5 +28,6 @@
                 "path": "./themes/WildWest-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": ["Dark-theme", "Contrast", "color", "Theme"]
 }

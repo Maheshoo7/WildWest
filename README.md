@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Maheshoo7/WildWest/blob/master/demo/logo.jpg" width='270' title="hover text">
+  <img src="demo/logo.jpg" width='270' title="hover text">
 </p>
 
 <p>&nbsp;</p> 
@@ -20,7 +20,7 @@
 <p>&nbsp;</p> 
 
 <p align="center">
-  <img src="https://github.com/Maheshoo7/WildWest/blob/master/demo/Screenshot%202020-09-22%20at%207.50.04%20PM.png" title="hover text">
+  <img src="demo/img2.png" title="hover text">
 </p>
 
 <p>&nbsp;</p> 
@@ -36,7 +36,7 @@
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-<img src="https://github.com/Maheshoo7/WildWest/blob/master/demo/Screenshot%202020-09-22%20at%207.55.12%20PM.png" title="hover text">
+<img src="demo/img1.png" title="hover text">
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
