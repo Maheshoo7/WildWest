@@ -2,11 +2,10 @@
     "name": "wildwest",
     "displayName": "Wild West",
     "description": "Dark and high contrast theme",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.49.0"
     },
-
     "publisher": "MaheshGaddhe00",
     "categories": [
         "Themes"
@@ -29,5 +28,10 @@
             }
         ]
     },
-    "keywords": ["Dark-theme", "Contrast", "color", "Theme"]
+    "keywords": [
+        "Dark-theme",
+        "Contrast",
+        "color",
+        "Theme"
+    ]
 }
